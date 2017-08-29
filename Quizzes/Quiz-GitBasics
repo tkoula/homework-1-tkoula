@@ -1,0 +1,53 @@
+What is git?
+a. a fast, distributed version control system
+b. a database
+c. a program in Microsoft Office
+d. a cat
+
+ANSWER: __
+
+
+Why do we use git?
+a. to track changes to a wide range of file types (LaTeX, data, code, scripts)
+b. to support data integrity and professional workflows
+c. to merge contributions from all of the engineers on a team
+d. to share files in a way that can be either private (internal to the project) or public (available on the internet, e.g., for your future employer to see all of the great work you've done)
+e. all of the above 
+
+ANSWER: __
+
+
+Which of the following does a version control system allow you to do?
+a. manage team work, individual work, and deployment (e.g., making work public)
+b. have the freedom to experiment knowing you can always go back to a working version
+c. allow you to break problems down into smaller blocks so you can do and finish one thing at a time (i.e.,. do one small commit at a time) instead of trying several things all at once and getting stuck
+d. never lose your work again because you've backed it up on github
+e. all of the above
+
+ANSWER: __
+
+
+What is the most basic series of commands you need to know to edit a git repository?
+a. git pull; git add <file>; git commit; git push;
+b. git bring; git modify; git send;
+c. git in; git write <file>; git out;
+
+ANSWER: __
+
+
+Git is used by:
+a. Boeing
+b. NASA
+c. Rockwell Collins
+d. Lawyers
+e. All of the above
+
+ANSWER: __
+
+What is the difference between git pull and git clone?
+a. clone makes multiple copies of files in a repository, while pull deletes redundant files
+b. clone can be used to start a new repository with remote content, while pull retrives remote content in an existing repository
+c. there is no difference
+
+ANSWER: __
+ 

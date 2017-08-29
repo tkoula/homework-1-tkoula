@@ -1,0 +1,49 @@
+What is LaTeX?
+a. the material medical gloves are made from
+b. a document preparation system for high-quality typesetting that is used for all forms of publishing
+c. a word processor
+d. an app
+
+ANSWER: __
+
+
+
+Why use LaTeX?
+a. because LaTeX formats math more perfectly than any other available option
+b. because LaTeX documents can be read and modified for decades after they are written (and aircraft and spacecraft tend to last a while...)
+c. because LaTeX allows authors to concentrate on getting the content right without worrying about the formatting
+d. because LaTeX integrates seamlessly with version control systems like git
+e. all of the above
+
+ANSWER: __
+
+
+
+What does LaTeX automate for you?
+a. it automatically generates a well-formed pdf with a professional layout
+b. it automatically aligns and spaces mathematical equations to maximize readability
+c. it automatically formats the entire document to follow the specifications of a publication venue (e.g., AIAA journal article, letter, CV, etc.) including elements like a table of contents with only one line of code stating which format to use
+d. it automatically generates a bibliography from a central file of sources without any need for the document author to do anything
+e. all of the above
+
+ANSWER: __
+
+
+
+What does the \documentclass{STYLE} LaTeX command do?
+a. it ensures your document is classy
+b. it specifies which style your document should be generated in (e.g., an AIAA Journal article, or a NASA Technical Memorandum)
+c. it signifies the start of the part of the file where you write the technical content
+d. it generates the title
+
+ANSWER: __
+
+
+
+What does $ do in a LaTeX document?
+a. it prints the $ symbol
+b. it specifies how much money you will get paid for producing the document
+c. it starts or ends math mode (so the math goes in between $s like $\phi$)
+d. it is the symbol for commenting out a line
+
+ANSWER: __
